@@ -1,3 +1,11 @@
+## Archived 3rd-Party Fork
+
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+
+----
+
 # AngularJS directive for OAuth 2.0 [![Build Status](https://travis-ci.org/andreareginato/oauth-ng.svg?branch=master)](https://travis-ci.org/andreareginato/oauth-ng)
 
 AngularJS directive for the [OAuth 2.0 Implicit Flow](http://tools.ietf.org/html/rfc6749#section-1.3.2).
